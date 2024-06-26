@@ -1,4 +1,4 @@
-# Lie-Equivariant Quantum Graph Neural Network
+# Lie-Equivariant Quantum Graph Neural Network (Lie-EQGNN)
 
 ![image](https://github.com/jogisuda/ML4SCI-2024/assets/22627105/e0430b68-4ff6-44d5-b388-79070fcb5172)
 
